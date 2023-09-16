@@ -4,18 +4,18 @@ github_repo: FT230X01
 github_url: https://github.com/mlab-modules/FT230X01
 homepage: false
 images:
-- doc/img/FT230X01A_top_small.jpg
-- doc/img/FT230X01A_Bot_small.jpg
 - doc/src/FT230X01A_top_big.jpg
 - doc/src/FT230X01A_Bot_big.jpg
+- doc/img/FT230X01A_Bot_small.jpg
+- doc/img/FT230X01A_top_small.jpg
 - doc/html/FT230X01A.cs_soubory/image008.jpg
-- doc/html/FT230X01A.cs_soubory/image004.jpg
-- doc/html/FT230X01A.cs_soubory/image001.jpg
 - doc/html/FT230X01A.cs_soubory/image007.jpg
-- doc/img/FT230X01A_QRcode.png
+- doc/html/FT230X01A.cs_soubory/image001.jpg
+- doc/html/FT230X01A.cs_soubory/image004.jpg
 - doc/src/FT_Prog.png
-- doc/html/FT230X01A.cs_soubory/Schema.png
+- doc/img/FT230X01A_QRcode.png
 - doc/html/FT230X01A.cs_soubory/image005.png
+- doc/html/FT230X01A.cs_soubory/Schema.png
 - doc/html/FT230X01A.cs_soubory/image006.png
 mark: 50
 status: 0
