@@ -5,4 +5,5 @@ eda:
   type: kicad
 gerbers: hw/cam_profi/
 site: https://github.com/mlab-modules/FT230X01
-summary: null
+summary: ' The module allow conecting RS232 CMOS/TTL device to USB. Uses FTDI chip
+  FT230XS. The chip is supported in all contemporary systems.'

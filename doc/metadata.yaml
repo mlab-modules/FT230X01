@@ -1,4 +1,5 @@
-description: null
+description: ' The module allow conecting RS232 CMOS/TTL device to USB. Uses FTDI
+  chip FT230XS. The chip is supported in all contemporary systems.'
 github_branch: FT230X01A
 github_repo: FT230X01
 github_url: https://github.com/mlab-modules/FT230X01
